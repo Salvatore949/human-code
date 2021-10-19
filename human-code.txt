@@ -4,7 +4,7 @@ Creo la pagina html
 Apro il tag body
     SE nella pagina html ci sono delle stilizzazioni
         *Creo una pagina css
-Collego tramite il tag "href" la pagina CSS con la pagina html
+        *Collego tramite il tag "href" la pagina CSS con la pagina html
 Clicco sulla pagina html
 Scrivo htm
     SE HTM si colora di azzurro

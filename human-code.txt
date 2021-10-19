@@ -1,0 +1,42 @@
+Accedo a Visual Studio Code
+Creo la repo
+Creo la pagina html
+Apro il tag body
+    SE nella pagina html ci sono delle stilizzazioni
+        *Creo una pagina css
+Collego tramite il tag "href" la pagina CSS con la pagina html
+Clicco sulla pagina html
+Scrivo htm
+    SE HTM si colora di azzurro
+        *Premo il tasto invio
+    ALTRIMENTI 
+        *Completo la scrittura del tag
+Creo un container
+Creo un div all'interno del container
+Scrivo il tag h1
+    SE il tag h1 è colorato di rosso
+        *Clicco sulla pagina css
+        *Scrivo h1{
+            color:red
+        }   
+    *ALTRIMENTI continuo a scrivere sulla pagina html
+Inserisco un'immagine nel foglio html
+Scrivo il tag corretto
+    FINCHE' non trovo l'immagine corretta
+        - cerco l'immagine 
+          SE l'immagine interessata è gia salvata in cartella
+             *clicco in alto a destra "esplora risorse"
+          ALTRIMENTI
+             *cerco su internet un'immagine giusta
+             *copio il link nella pagina html
+Inserisco il paragrafo che descrive l'immagine
+Il tag non funziona
+Apro un ticket
+    SE il professore risponde
+          *chiedo qual è il tag corretto
+    ALTRIMENTI cerco su W3C school
+Inserisco il tag corretto
+Scrivo il testo
+Chiudo il tag body
+chiudo il tag hyml
+

@@ -38,5 +38,5 @@ Apro un ticket
 Inserisco il tag corretto
 Scrivo il testo
 Chiudo il tag body
-chiudo il tag hyml
+Chiudo il tag html
 
